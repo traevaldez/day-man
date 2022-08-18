@@ -20,4 +20,5 @@ https://traevaldez.github.io/day-man/
 ## Contributions
 
 Made with ❤️ by Trae Valdez
+
 2022 FuneralEmpire, Inc.
